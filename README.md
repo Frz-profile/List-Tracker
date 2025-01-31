@@ -1,5 +1,5 @@
 # List-Tracker
-To-Do List application that helps users keep track of their tasks.
+Python To-Do List application that helps users keep track of their tasks.
 The user will be able to:
 1. Add tasks to their to-do list.
 2. Mark tasks as completed.
